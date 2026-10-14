@@ -1,0 +1,6 @@
+{
+  "name": "Étudiants",
+  "description": "Interface minimaliste et épurée pour la gestion des étudiants avec base SQLite locale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
